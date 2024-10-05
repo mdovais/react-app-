@@ -1,0 +1,17 @@
+.main-container-box {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+  }
+  .dashboard{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+  }
+  .analytics-cards-box {
+    display: flex;
+    justify-content: space-between;
+  }

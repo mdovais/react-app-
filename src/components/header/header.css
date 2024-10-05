@@ -1,0 +1,35 @@
+
+.header {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-top: 10px;
+  }
+  .greet-icon{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .header h2 {
+    margin: 0;
+    color: #333;
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 45px;
+  }
+  
+  .header p {
+    margin: 5px 0;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #333333;
+  }
+  
+  .header a {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #05518f;
+  }
+  

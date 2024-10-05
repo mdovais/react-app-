@@ -1,0 +1,13 @@
+.dropdown-box{
+    display: flex;
+    align-items: center;
+    h4{
+      margin-right: 10px;
+      font-size: 22px;
+      font-weight: 500;
+    }
+    select{
+      font-size: 18px;
+      font-weight: 500;
+    }
+    }
